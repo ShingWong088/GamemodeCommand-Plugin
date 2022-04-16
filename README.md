@@ -31,6 +31,10 @@ Easier To Change Your Gamemode<br/>
 /gamemode c: Your Gamemode Have Been Updated To Creative Mode.<br/>
 /gamemode a: Your Gamemode Have Been Updated To Adventure Mode.<br/>
 /gamemode sp: Your Gamemode Have Been Updated To Spectator Mode.<br/>
+/gamemode survival: Your Gamemode Have Been Updated To Survival Mode.<br/>
+/gamemode creative: Your Gamemode Have Been Updated To Creative Mode.<br/>
+/gamemode adventure: Your Gamemode Have Been Updated To Adventure Mode.<br/>
+/gamemode spectator: Your Gamemode Have Been Updated To Spectator Mode.<br/>
 ## Permissions:<br/>
 1. Gamemode.Gamemode -- Necessary Permission<br/>
 2. Gamemode.Gms -- Survival Mode<br/>
