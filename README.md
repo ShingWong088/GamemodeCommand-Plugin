@@ -1,4 +1,4 @@
-# GamemodeCommand-Plugin
+# GamemodeCommand Plugin
 Easier To Change Your Gamemode<br/>
 ## Commands:
 ### Added Command:<br/>
