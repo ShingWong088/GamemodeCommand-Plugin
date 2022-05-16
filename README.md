@@ -23,14 +23,22 @@ Easier To Change Your Gamemode<br/>
 4. /gm sp<br/>
 ### Changed Original Gamemode Meesage:<br/>
 - Gamemode Survival<br/>
-Your Gamemode Has Been Updated To Survival Mode
+Your Gamemode Has Been Updated To Survival Mode.<br/>
+- Gamemode Creative<br/>
+Your Gamemode Has Been Updated To Creative Mode.<br/>
+- Gamemode Adventure<br/>
+Your Gamemode Has Been Updated To Adventure Mode.<br/>
+- Gamemode Spectator<br/>
+Your Gamemode Has Been Updated To Spectator Mode.<br/>
 ## Permissions:<br/>
-1. Gamemode.Gamemode -- Necessary Permission<br/>
-2. Gamemode.Gms -- Survival Mode<br/>
-3. Gamemode.Gmc -- Creative Mode<br/>
-4. Gamemode.Gma -- Adventure Mode<br/>
-5. Gamemode.Gmsp -- Spectator Mode<br/>
-
-
-Test:
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+1. Gamemode.Gms -- Survival Mode<br/>
+2. Gamemode.Gmc -- Creative Mode<br/>
+3. Gamemode.Gma -- Adventure Mode<br/>
+4. Gamemode.Gmsp -- Spectator Mode<br/>
+## Version: [Command Added In 1.0.1 Beta Version]<br/>
+- Check Version Command
+1. GamemodePluginVersion
+2. GamemodeVersion
+3. GamemodeVer
+4. GmVersion
+5. Gmver
